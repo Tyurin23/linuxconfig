@@ -1,0 +1,8 @@
+[
+  { "keys": ["ctrl+space"], "command": "auto_complete" },
+  { "keys": ["alt+right"], "command": "next_view" },
+  { "keys": ["alt+left"], "command": "prev_view" },
+  { "keys": ["ctrl+alt+down"], "command": "duplicate_line" },
+  { "keys": ["ctrl+alt+down"], "command": "duplicate_line" },
+
+]

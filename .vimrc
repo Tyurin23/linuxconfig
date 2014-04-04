@@ -36,6 +36,7 @@ let g:Tlist_Use_Right_Window = 1
 
 "Syntastic
 let g:syntastic_enable_signs=1
+let g:syntastic_java_javac_config_file_enabled=1
 
 map <S-F7> :NERDTreeToggle<CR>
 map <F7> :NERDTreeFocus<CR>
